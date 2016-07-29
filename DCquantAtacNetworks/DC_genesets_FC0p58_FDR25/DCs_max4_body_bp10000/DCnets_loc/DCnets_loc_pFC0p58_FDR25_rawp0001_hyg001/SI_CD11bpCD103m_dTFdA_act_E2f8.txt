@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC0p58_FDR25_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000226959463638	0.000226959463638,0.000226959463638,0.000226959463638	1	8	Cdc14a, Chaf1a, Cntnap2, Dpp6, Irf2, Pla2g4a, Zc3h12d, Zwilch	8	

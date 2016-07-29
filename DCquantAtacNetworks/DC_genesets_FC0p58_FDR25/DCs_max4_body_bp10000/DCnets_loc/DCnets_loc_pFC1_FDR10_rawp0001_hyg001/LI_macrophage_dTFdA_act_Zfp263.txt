@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC1_FDR10_up_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000497404892825	0.000497404892825,0.170583057167,0.317406026645,0.704167289237	1	10	Actn1, Apbb2, Bahd1, Casz1, Hivep3, Lrrc1, Micall1, Runx3, Tbc1d4, Tnfrsf1b	10	

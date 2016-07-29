@@ -1,0 +1,3 @@
+	GF_SI_CD103p_DC_v_SFBd14_SI_CD103p_DC_FC0p58_FDR25_down_GF_SI_CD11bmCD103p_v_SFB_SI_CD11bmCD103p_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	8.38822509059e-05	8.38822509059e-05,0.0208629943183,0.0510635243198	1	3	Gfod1, Phlpp1, Smad3	4	

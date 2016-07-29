@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC0p58_FDR25_up_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000767400862583	0.000767400862583,0.00149659244942,0.108338296424,0.16011298374	1	20	AW549877, Bcr, Capn5, Cdh23, Etaa1, Itpkc, Lrrc1, Metap1, Mex3c, Mfn1, Pik3r5, Ppfibp2, Ptger2, Rasa1, Sdcbp2, Snph, Tab3, Tle1, Ttc39b, Zbtb1	19	

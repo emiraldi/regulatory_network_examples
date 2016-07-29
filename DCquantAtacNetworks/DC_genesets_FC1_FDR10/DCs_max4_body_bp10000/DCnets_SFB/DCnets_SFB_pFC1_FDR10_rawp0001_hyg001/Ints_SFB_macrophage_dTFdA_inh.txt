@@ -1,0 +1,3 @@
+Regulator	Target	-log10(min(Praw))*dir	PeakSetSupport	AllMotifPvals	Motifs	MotifTf
+Plagl1	Fkbp5	-1	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up	0.000323375992606	M0363_1.01_mm9, E11315_hg19, M6241_1.01_hg19, PLAG_TFClassSubFam, factors_TFClassSubFam	Plagl1
+Plagl1	Pold1	-1	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up	0.000323375992606	M0363_1.01_mm9, E11315_hg19, M6241_1.01_hg19, PLAG_TFClassSubFam, factors_TFClassSubFam	Plagl1

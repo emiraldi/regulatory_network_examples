@@ -1,0 +1,3 @@
+	GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.76150320388e-05	1.76150320388e-05	1	24	Adamtsl4, Asf1b, BC017643, Banp, Cchcr1, Cdk1, Cep152, Coasy, Ddx58, Dedd2, Fbxw17, H2-K2, Lyl1, Mcm10, Narfl, Ncapd2, Nde1, Ptpn6, Rgl2, Sh3gl1, Smyd5, Taf6, Usp21, Zfp526	23	

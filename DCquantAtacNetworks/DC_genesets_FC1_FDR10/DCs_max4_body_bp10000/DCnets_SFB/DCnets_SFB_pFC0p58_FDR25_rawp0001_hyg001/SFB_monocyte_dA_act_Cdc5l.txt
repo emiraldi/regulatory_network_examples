@@ -1,0 +1,3 @@
+	GF_SI_Monocytes_v_SFBd14_SI_Monocytes_FC0p58_FDR25_down_GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00081189101827	0.00081189101827	1	3	6330403A02Rik, Enpp1, Itpkb	2	

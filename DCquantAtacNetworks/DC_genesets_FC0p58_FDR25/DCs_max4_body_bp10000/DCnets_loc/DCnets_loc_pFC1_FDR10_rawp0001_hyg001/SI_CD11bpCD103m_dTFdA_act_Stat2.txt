@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000529219721124	0.000529219721124,0.000529219721124,0.000897572852807	1	19	Aip, Arhgap39, Cdc14a, Diap3, Dip2c, Fgl2, Glcci1, Hipk2, Ifitm6, Inpp5d, Med12l, Nedd9, Ppdpf, Rasgef1b, Rinl, Rnase6, Rnf34, Trit1, Ubac2	20	

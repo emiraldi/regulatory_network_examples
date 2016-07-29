@@ -1,0 +1,3 @@
+	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC0p58_FDR25_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.50792186796e-06	2.50792186796e-06,0.328659854329,0.581737947077,0.677319968298,0.767776885074,0.767776885074	1	44	Adora2a, Akt3, Arhgap28, Asns, B3gnt5, Braf, Cd24a, Cdon, Cpeb2, Ctnnal1, Cyth1, Dennd4a, Dennd5b, Fam129b, Gan, Gng4, Gpr124, Jag2, Jak2, Kit, Lrp8, Lrrc16a, Map4k4, Mical3, Micall1, Mllt4, Mxi1, Ncald, Phlpp1, Plxnc1, Pvrl1, Rnf157, Rnf217, Ryr1, Satb1, Sfmbt1, Siglecg, Slc16a3, Strbp, Tex2, Uck2, Vegfa, Zeb1, Zfp821	48	

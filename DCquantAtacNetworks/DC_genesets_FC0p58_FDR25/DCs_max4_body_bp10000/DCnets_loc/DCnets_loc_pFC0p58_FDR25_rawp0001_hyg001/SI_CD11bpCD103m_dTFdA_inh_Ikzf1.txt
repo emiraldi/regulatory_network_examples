@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC0p58_FDR25_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000415798075111	0.000415798075111,0.000415798075111,0.00614652996008,0.685083790371,0.685083790371,0.685083790371	1	16	Alpk2, Crtc2, Ell, Fam49a, Furin, Il1rl1, Iqgap1, Klrb1b, Klri1, Ly75, Msrb3, Pkib, Rbms2, Slc7a8, Tbc1d17, Utp6	16	

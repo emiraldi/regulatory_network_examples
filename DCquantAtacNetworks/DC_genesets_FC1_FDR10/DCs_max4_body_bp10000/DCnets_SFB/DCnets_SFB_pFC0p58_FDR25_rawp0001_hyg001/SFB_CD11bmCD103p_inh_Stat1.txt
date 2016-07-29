@@ -1,0 +1,3 @@
+	GF_SI_CD11bmCD103p_v_SFB_SI_CD11bmCD103p_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000141417477542	0.000141417477542,0.0163752276212,0.0458858435721,0.128852324713,0.130330717521,0.130330717521,0.139987885625,0.224876194783,0.610755438288,0.610755438288	1	54	Apobec1, Atf3, C3, Ccl2, Ccl3, Ccl4, Cd2, Cdt1, Col15a1, Ddx58, Ddx60, Dpt, Dusp10, Fbn1, Fcer1g, Fos, Frmd8, Gbp4, Gbp5, Gbp9, Gpc6, Gpr68, Hspd1, Ifi203, Ifi204, Itih5, Itk, Jun, Kctd21, Lgals9, Ltbp1, Mndal, Mx1, Mx2, Neat1, Nfkbid, Nrp2, Oas2, Ptpro, Rsad2, S100a4, Sh2d1b1, Sh2d3c, Slc28a2, Slfn8, Sorl1, Sparc, Spns3, Tagap, Tlr2, Trim14, Zc3h12d, Zeb2, Zfp961	74	

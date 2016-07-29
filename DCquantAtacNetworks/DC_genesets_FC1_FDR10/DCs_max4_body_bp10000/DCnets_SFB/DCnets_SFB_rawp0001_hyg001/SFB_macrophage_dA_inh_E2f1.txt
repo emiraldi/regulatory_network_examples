@@ -1,0 +1,3 @@
+	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000724850130727	0.000724850130727,0.0967799501806,0.247368308791	1	7	Chmp6, Egr1, Rgl2, Rnf166, Rundc1, Spag7, Zfp276	7	

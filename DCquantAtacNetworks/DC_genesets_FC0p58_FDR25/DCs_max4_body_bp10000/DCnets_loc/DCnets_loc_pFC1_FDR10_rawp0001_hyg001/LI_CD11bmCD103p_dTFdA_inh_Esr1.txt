@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC1_FDR10_up_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000532098404545	0.000532098404545,0.119167649472	1	4	4632428N05Rik, 4931406C07Rik, Arhgef3, Palld	4	

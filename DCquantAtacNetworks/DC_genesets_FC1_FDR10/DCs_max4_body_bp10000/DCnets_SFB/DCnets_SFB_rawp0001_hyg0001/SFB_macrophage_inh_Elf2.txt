@@ -1,0 +1,3 @@
+	GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.08570523998e-05	1.08570523998e-05,0.121723679052,0.168168097184	1	59	Adamtsl4, Ap3m2, Asb2, BC017643, Banp, Batf2, Btg2, Ccl2, Ccl4, Cenpo, Ciita, Dctn5, Ddit3, Ddx58, Dedd2, Dok2, Dse, Ecm1, Egr1, Fbxo18, Fkbp4, Galnt9, Gas2l1, Gbp5, Hip1, Hspa1a, Ifit2, Il16, Mon1b, Mpi, Ncapd2, Nckipsd, Nde1, Neb, Nfkbid, Oasl2, Oma1, Pex6, Pold1, Ppil1, Ptpn6, Rcc1, Rcsd1, Relt, Rgl2, Rnf135, Rundc1, Sh3gl1, Spag7, Thap11, Tmem51, Tnf, Tnfaip8l2, Trim34a, Trim65, Trnau1ap, Usf1, Zbtb45, Zfp276	77	

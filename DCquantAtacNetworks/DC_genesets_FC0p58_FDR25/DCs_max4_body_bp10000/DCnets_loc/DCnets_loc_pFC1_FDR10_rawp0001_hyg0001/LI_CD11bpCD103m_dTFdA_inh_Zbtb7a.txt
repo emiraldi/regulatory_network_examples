@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.33376308945e-07	2.33376308945e-07,0.00318750773192,0.035763072303,0.0854185688161,0.420190233713	1	19	2700094K13Rik, Cdk5, Cep290, Clasrp, Copg2, Fosb, Glcci1, Golim4, Mcm8, Mmgt2, Mta3, Prkd2, Sae1, Tbc1d10c, Thap4, Tm2d2, Tmem194b, Tmx2, Zfp964	18	

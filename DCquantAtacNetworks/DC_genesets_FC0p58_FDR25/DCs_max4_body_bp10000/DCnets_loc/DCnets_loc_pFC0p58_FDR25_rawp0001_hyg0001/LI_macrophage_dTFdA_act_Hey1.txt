@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_up_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.21980893333e-07	2.21980893333e-07,0.014554688288	1	20	Agpat2, Bahd1, Capn2, Casz1, Cdon, Dll4, Fry, Hivep3, Mfap3l, Micall1, Mllt4, Mpp5, Mt2, Naa15, Pard6b, Pde4d, Scube3, Thoc1, Ttc39b, Zfp523	19	

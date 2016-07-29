@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC1_FDR10_up_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00024948310795	0.00024948310795,0.00147820440427,0.00312399235724	1	18	1110007C09Rik, Arhgap26, Cdkn1a, Dfna5, Ext1, Fam129b, Lama2, Mfsd2a, Pik3r5, Pnkd, Ppard, Rgs16, Rnasel, St3gal4, Tlr4, Tmbim1, Xirp1, Zmym1	17	

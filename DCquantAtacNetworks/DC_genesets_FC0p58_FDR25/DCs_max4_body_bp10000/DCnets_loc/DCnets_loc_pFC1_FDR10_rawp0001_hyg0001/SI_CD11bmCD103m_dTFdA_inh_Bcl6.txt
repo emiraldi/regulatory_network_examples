@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC1_FDR10_down_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.50863303686e-07	2.50863303686e-07	1	3	Cd86, H2-Eb2, Nr1d1	3	

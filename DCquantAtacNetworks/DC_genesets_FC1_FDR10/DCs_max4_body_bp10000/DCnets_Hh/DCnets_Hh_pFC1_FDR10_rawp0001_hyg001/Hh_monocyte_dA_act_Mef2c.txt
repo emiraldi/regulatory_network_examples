@@ -1,0 +1,3 @@
+	GF_LI_Monocytes_v_HHd14_LI_Monocytes_FC1_FDR10_down_GF_LI_Monocyte_v_Hh_LI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000281864359548	0.000281864359548,0.000307495564535,0.0003596343764,0.0003596343764,0.0210345066041,0.0711113901206,0.10244528484	1	2	Arpc5l, Rnf157	2	

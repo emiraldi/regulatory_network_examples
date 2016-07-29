@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC0p58_FDR25_up_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	6.3847755577e-05	6.3847755577e-05,6.3847755577e-05,0.125987699735	1	43	2810474O19Rik, Adora2a, Aff1, Arap2, Arhgap24, Atmin, B9d2, Cacna2d1, Cacnb4, Csf2rb, Ehd1, Foxp1, Gng12, Gpc6, Gpr35, Ier3, Ikbkb, Jag1, Kcnmb1, Kcnn4, Lmnb1, Man1a, Nfkb1, Nr1d2, Pdcd1lg2, Prr5l, Ptpn2, Sfi1, Slc11a1, Slc7a11, Snx30, Spib, Srxn1, St3gal4, Ston2, Tbc1d4, Tlr4, Trio, Trps1, Vopp1, Xylt1, Zbtb20, Zfp953	44	

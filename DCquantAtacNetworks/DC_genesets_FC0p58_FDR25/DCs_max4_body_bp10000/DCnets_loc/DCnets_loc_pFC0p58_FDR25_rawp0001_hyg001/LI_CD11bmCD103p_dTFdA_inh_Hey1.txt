@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC0p58_FDR25_up_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	3.25319141625e-08	3.25319141625e-08,0.256698215135	1	11	Ap3d1, Cab39l, Cd83, Dpy19l1, Fbxl4, H3f3b, Hps3, Hs6st1, Ikzf1, Kif18a, Zfp367	11	

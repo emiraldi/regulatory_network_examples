@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,3.22707472966e-08,0.272051177773	1	62	1110051M20Rik, 1110059E24Rik, 1200014J11Rik, Amz1, Arhgap39, Atf7ip, Atp8a1, Bbs9, Bcl2, Btbd16, Cd33, Cd48, Cdc14a, Col23a1, Cwf19l1, Cxcr2, Dennd1c, Dip2c, Fmnl3, Gm11545, Hipk2, Inpp5d, Irf2, Itgae, Itpr1, Kctd13, Limk1, Lipe, Med12l, Mef2c, Mpdu1, Nsmaf, Patz1, Pecam1, Pigl, Pik3ap1, Plekha1, Ppdpf, Prkch, Ptgr2, Rasgef1b, Rcbtb2, Rinl, Rnf43, Sept9, Sez6l2, Sla, Slc24a1, St3gal2, St6galnac3, Stat2, Ston2, Ubac2, Vamp5, Vangl2, Vav2, Vrk1, Wipf1, Zcchc8, Zfp618, Zfp658, Zfp710	64	

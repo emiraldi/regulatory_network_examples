@@ -1,0 +1,3 @@
+	GF_SI_CD11bmCD103p_v_SFB_SI_CD11bmCD103p_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000261251551242	0.000261251551242,0.0276303495017,0.036739042757,0.0500414687265,0.0987302355418,0.0987302355418,0.164377788279,0.662965114226,0.726964417267,0.913841208412,0.924760561231	1	30	Acsf2, Agpat4, Aig1, Arhgap10, Asap2, Camk1, Cnnm2, Entpd1, Etv1, Fam129b, Gfod1, Hr, Hs3st3b1, Kcnh4, Nr1d1, Pcyt1b, Phlpp1, Pkib, Prune2, Rnf144a, Rnf217, Slc36a4, Smad3, Socs3, Specc1l, Stat4, Ston2, Syn1, Tlr5, Txnip	70	

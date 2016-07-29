@@ -1,0 +1,3 @@
+	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000442555874662	0.000442555874662,0.60110568221	1	8	Ankrd33b, Klri1, Klri2, Mical3, Plxnc1, Prr5l, Slc22a4, Vdr	8	

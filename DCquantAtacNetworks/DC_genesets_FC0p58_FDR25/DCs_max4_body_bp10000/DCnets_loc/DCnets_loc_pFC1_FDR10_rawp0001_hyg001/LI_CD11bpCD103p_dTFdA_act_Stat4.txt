@@ -1,0 +1,3 @@
+	GF_LI_CD11bpCD103p_DC_v_GF_SI_CD11bpCD103p_DC_FC1_FDR10_up_GF_LI_CD11bpCD103p_v_GF_SI_CD11bpCD103p_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00040648913583	0.00040648913583,0.0023310532006	1	16	Angel1, Ankrd50, C3, Cytip, Ier3, Iffo2, Lrp8, Ndufab1, Ppard, Ppfibp2, Ppig, Riok3, Stk39, Tgfbi, Tnfsf14, Vash1	16	

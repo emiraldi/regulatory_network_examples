@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.723593021824	1	47	Adcy9, Agap1, Agpat2, Arntl, Atp1b3, BC005537, Cdc42bpb, Chsy3, Crls1, Dact1, Dnajc10, Dos, E330009J07Rik, Epas1, Fam20c, Fbxo11, Fgd6, Fry, Gan, Gtf3c4, Hivep3, Htra4, Ing2, Kcmf1, Larp1b, Leprel1, Lrp12, Mafb, Man1a, Msl2, Mt1, Mt2, Pogk, Ppm1a, Rabgap1l, Rasa1, Rhobtb1, Ripk2, Sdc4, Selp, Sema6d, Sept7, Shb, Socs3, Stk39, Tlr2, Tspan5	47	

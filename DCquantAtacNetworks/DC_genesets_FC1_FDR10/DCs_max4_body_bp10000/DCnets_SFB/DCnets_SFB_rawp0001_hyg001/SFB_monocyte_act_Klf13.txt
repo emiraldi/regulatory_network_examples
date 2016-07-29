@@ -1,0 +1,3 @@
+	GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000384651868065	0.000384651868065,0.000384651868065	1	32	2210417A02Rik, AI846148, Agbl5, Agpat4, Ano1, Aptx, Bcl2, Bend4, Cbwd1, Cnnm2, Dact3, Dhx35, Dscc1, Erg, Gbe1, Get4, Gzmm, Kcp, Kit, Klf16, Lin54, Lpar2, Lrrc32, Nol12, Setd4, Snai1, Sntb2, Snx33, Tspan2, Txndc5, Vgll4, Vwa1	35	

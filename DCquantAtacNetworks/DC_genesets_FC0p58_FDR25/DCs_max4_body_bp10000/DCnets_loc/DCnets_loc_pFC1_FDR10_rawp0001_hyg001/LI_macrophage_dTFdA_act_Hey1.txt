@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC1_FDR10_up_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	8.68116774373e-05	8.68116774373e-05	1	6	Bahd1, Casz1, Fry, Hivep3, Micall1, Mllt4	6	

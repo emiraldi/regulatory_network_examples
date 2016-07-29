@@ -1,0 +1,3 @@
+	GF_LI_Monocytes_v_GF_SI_Monocytes_FC0p58_FDR25_up_GF_LI_Monocyte_v_GF_SI_Monocyte_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.49263264704e-06	1.49263264704e-06	1	19	C2cd3, Cct7, Cirbp, Fsip1, Herc6, Hist1h1a, Hist1h3a, Hspbp1, Klf11, Lss, Mast3, Nuak1, Ppm1k, Prkra, Rps15, Smarcb1, Spc24, Tep1, Wdr78	19	

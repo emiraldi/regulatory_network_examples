@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC0p58_FDR25_up_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.0	0.0,0.189820187718,0.189820187718,0.189820187718,0.285067435529,0.285067435529,0.340234643284	1	18	3110043O21Rik, Adam8, Car13, Dnajc10, Dsel, Greb1l, Ier3, Itpkc, Marcks, Metap1, Phlda1, Rap2b, Rasa1, Slc35f5, Snx8, Tle1, Vav3, Zbtb1	18	

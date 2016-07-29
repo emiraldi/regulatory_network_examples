@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC0p58_FDR25_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	7.90559209873e-07	7.90559209873e-07,0.000519801299993,0.326304872276	1	21	Ahctf1, Akirin2, Alg11, Dact1, Fbxo30, Gclm, Hivep1, Homer1, Id2, Igf1r, Lfng, Mfap3l, Msr1, Mt1, Mt2, Nip7, Plscr1, Pqlc3, Psmd7, Ripk1, Txlnb	20	

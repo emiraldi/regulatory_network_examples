@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC0p58_FDR25_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	4.72522307504e-07	4.72522307504e-07,0.054932061901,0.331193021717,0.585865089068,0.644979211259	1	23	Acsl1, Arfip1, Asnsd1, Atp10d, Chordc1, Coq10b, Coro2a, Ddx31, Dnmt3a, Idh3g, Kif2c, Lrrc40, Mapk9, Mtrf1, Nav2, Nt5m, Peo1, Pisd-ps1, Pola2, Pole2, Slco3a1, Wdr3, Xkr5	24	

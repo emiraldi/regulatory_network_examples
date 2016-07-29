@@ -1,0 +1,3 @@
+	GF_SI_Monocytes_v_SFBd14_SI_Monocytes_FC0p58_FDR25_down_GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000497186053096	0.000497186053096,0.176957603396,0.176957603396,0.233344857548	1	5	Phlpp1, Rnf43, Tmeff1, Ubap1, Ugt1a5	5	

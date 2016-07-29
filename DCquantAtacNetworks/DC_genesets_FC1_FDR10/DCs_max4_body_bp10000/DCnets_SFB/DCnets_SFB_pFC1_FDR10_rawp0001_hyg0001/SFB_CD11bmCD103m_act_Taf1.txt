@@ -1,0 +1,3 @@
+	GF_SI_CD11bmCD103m_v_SFB_SI_CD11bmCD103m_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	8.79678178078e-08	8.79678178078e-08,0.445484582383,0.617693050374,0.966896668667,0.999094925578	1	35	Abtb2, Antxr2, Bend3, Capg, Cd14, Cnnm2, Foxo1, Gda, Gpr126, Ica1l, Lats2, Lphn2, Lrrc8d, Marcks, Myo1e, Mzt1, Pde3b, Phlpp1, Pkib, Prdm1, Rasa2, Slc16a3, Slc16a7, Slc7a11, Smad3, Spred1, St7, Stat4, Timp1, Tmed5, Trps1, Ubxn7, Vdr, Zcchc11, Zswim6	75	

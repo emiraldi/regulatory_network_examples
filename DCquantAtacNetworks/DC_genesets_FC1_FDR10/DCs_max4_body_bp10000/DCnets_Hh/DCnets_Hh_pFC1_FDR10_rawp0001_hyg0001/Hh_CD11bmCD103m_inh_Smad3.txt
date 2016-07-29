@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_v_Hh_LI_CD11bmCD103m_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.11647415881e-05	2.11647415881e-05,0.0919964244668,0.141278623693,0.816114684711	1	11	Col14a1, Col15a1, Col4a1, Ctla2b, Ecm1, Etv1, Fn1, Fxyd1, Itga9, Klf9, Serpina3n	14	

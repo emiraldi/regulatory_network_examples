@@ -1,0 +1,3 @@
+	GF_LI_CD11bpCD103m_v_Hh_LI_CD11bpCD103m_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000956957067636	0.000956957067636,0.0265167566223	1	7	BC039771, Bbs5, Ednrb, Ffar2, Mat2b, Ptpn3, Snx29	8	

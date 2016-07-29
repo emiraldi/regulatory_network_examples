@@ -1,0 +1,3 @@
+	GF_LI_Monocyte_v_Hh_LI_Monocyte_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000582754469223	0.000582754469223,0.853757320173,0.853757320173,0.876345017278,0.876345017278,0.914501512584,0.936054233966,0.938468878856,0.941679660178,0.969749591402,0.969749591402,0.974375096094,0.974375096094	1	39	Ahrr, Atcay, Atic, Bub1, Cabp4, Cdkl3, E2f3, Espl1, Exd1, Fam136a, Fam57a, Fam60a, Fkbp5, Gar1, Gpr128, Gstcd, Hic1, Hnrnph3, Kcnh4, Kcnk6, Lekr1, Mpp4, Mrps35, Nudt14, Ovca2, Pdcd2, Pdia4, Ppih, Ppp2r5e, Prr24, Rab11fip4, Rpusd1, Sigmar1, Snora3, Snora31, Thg1l, Ube2cbp, Wdr47, Zfp553	64	

@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC1_FDR10_down_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000188962507456	0.000188962507456,0.308134852897	1	2	D8Ertd738e, Per1	2	

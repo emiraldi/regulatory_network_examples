@@ -1,0 +1,3 @@
+	GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000863633389861	0.000863633389861	1	10	Abhd8, Hist1h1b, Hist1h2an, Hspa1a, Hspa1l, Lage3, Mrpl34, Orc1, Ptpn18, Xpo7	7	

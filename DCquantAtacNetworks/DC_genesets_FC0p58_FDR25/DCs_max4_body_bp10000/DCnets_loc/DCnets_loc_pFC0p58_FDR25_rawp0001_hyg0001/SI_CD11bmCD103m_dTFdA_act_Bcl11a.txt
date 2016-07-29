@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC0p58_FDR25_down_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	6.25341810379e-06	6.25341810379e-06,0.0305044485989	1	16	Aim2, Ap3d1, Arhgap25, Atf3, Baiap2l1, Fndc5, Gm14005, Iqgap2, Kif17, Pde2a, Pdlim2, Pik3ap1, Pilra, Preb, Rgl1, Tpx2	17	

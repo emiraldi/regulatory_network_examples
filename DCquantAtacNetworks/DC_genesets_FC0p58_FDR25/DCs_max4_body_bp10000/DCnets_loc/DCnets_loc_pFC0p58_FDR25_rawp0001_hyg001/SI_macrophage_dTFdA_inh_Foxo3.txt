@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_down_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000345815309249	0.000345815309249,0.108572595022,0.108572595022,0.498359019612,0.769727256488,0.769727256488	1	8	Agpat4, Foxp1, H2-Eb2, Iqgap1, Lrrc8d, Rab11fip1, Sept7, Stxbp6	9	

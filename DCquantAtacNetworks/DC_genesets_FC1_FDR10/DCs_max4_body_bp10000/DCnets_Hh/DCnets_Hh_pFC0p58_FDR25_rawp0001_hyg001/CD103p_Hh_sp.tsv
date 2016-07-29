@@ -1,0 +1,15 @@
+Regulator	Target	Weight
+Irf3	Apobec1	-0.25
+Nr2c2	Bach2	0.33
+Irf3	Cbx5	-0.25
+Irf6	Cbx5	-0.25
+Irf3	Ccl3	-0.25
+Irf7	Ccl3	-0.25
+Irf3	Ccl5	-0.25
+Irf6	Ccl5	-0.25
+Irf7	Ccl5	-0.25
+Irf3	Hpgd	-0.25
+Irf7	Hpgd	-0.25
+Irf3	Tlr8	-0.25
+Irf6	Tlr8	-0.25
+Irf7	Tlr8	-0.25

@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_down_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00059454048108	0.00059454048108,0.00535532944827,0.0134453820299,0.0230837445764,0.359863626324,0.365523577406,0.560365297838,0.702055445021,0.907021362846,0.99462387418	1	9	Cpt1a, Csrp1, Dennd1c, Gpx1, Myl12b, Pmaip1, Stk17b, Tjp3, Tmem206	9	

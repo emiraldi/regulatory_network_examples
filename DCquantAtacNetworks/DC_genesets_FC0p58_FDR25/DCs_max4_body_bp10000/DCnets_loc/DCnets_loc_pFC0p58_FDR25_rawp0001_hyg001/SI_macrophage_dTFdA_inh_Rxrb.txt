@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_down_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00077904797659	0.00077904797659,0.25916639331,0.25916639331,0.622854672224,0.622854672224	1	7	BC027231, Cald1, Fyn, Ildr1, Iqgap1, Lrrfip1, Rassf3	9	

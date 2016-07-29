@@ -1,0 +1,3 @@
+	GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC0p58_FDR25_down_GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00050493385531	0.00050493385531,0.0309187714212,0.0309187714212,0.279017911532,0.279017911532,0.426856637747,0.459338955395,0.494163536811	1	14	Asb2, Btg2, Chmp6, Ddit3, Dedd2, Dok2, Egr1, Mast3, Plcb3, Ptpn6, Rnf135, Rnf166, Trim14, Zfp526	13	

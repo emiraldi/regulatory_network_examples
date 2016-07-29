@@ -1,0 +1,3 @@
+	GF_SI_CD11bpCD103m_v_SFB_SI_CD11bpCD103m_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000930465964426	0.000930465964426,0.580646185768,0.580646185768	1	10	Alpk2, Bach2, Gpr126, Pkib, Prdm1, Ptgr1, Purg, Rgs1, Smagp, Tceb1	10	

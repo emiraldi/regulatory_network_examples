@@ -1,0 +1,3 @@
+	GF_LI_CD11bpCD103p_v_Hh_LI_CD11bpCD103p_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000464911345978	0.000464911345978,0.000464911345978,0.000768627324369,0.0136993990618,0.0226219943556,0.0291820012952	1	35	1700013H16Rik, AA388235, Ahnak, Bco2, Bnip1, Cacna1d, Ccdc62, Ccl3, Ccnj, Ddx58, Dnase1l3, Ehbp1, Gbp3, Gbp9, H6pd, Hnrnph3, Hpgd, Ifi203, Ifi204, Mndal, Naa20, Nqo2, P2ry6, Parp11, Parp14, Rnf39, Rsad2, Sema6d, Stx3, Tfam, Tgm3, Tnfsf13b, Trim14, Trim30a, Trim69	52	

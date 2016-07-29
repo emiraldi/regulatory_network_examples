@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_down_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.68532223802e-06	2.68532223802e-06,1.09963695846e-05,0.000113053856205,0.000113053856205,0.0133476991975,0.0133476991975	1	32	1810043G02Rik, 4930427A07Rik, 5730508B09Rik, Arhgap32, Arhgef3, Ccrl2, Clec1a, Dusp10, Fh1, Fos, Glcci1, Gramd1b, Itpr1, Kif9, Kmo, Lcp2, Med12l, Mta3, Nfkbia, Nmral1, Parp11, Parp14, Pecam1, Plbd1, Plcl2, Rpl41, Sash1, Senp7, Siva1, Stk10, Tdp1, Zfp277	31	

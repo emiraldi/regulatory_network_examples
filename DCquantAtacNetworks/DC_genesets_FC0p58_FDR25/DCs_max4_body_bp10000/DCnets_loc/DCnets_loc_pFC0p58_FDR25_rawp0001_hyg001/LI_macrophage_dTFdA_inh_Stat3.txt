@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_up_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	5.08374391428e-06	5.08374391428e-06,0.113286389452,0.113286389452,0.563993171514	1	13	Chd9, Flad1, H3f3b, Lbr, Prkra, Rps10, Slc5a6, Timeless, Uba52, Ubc, Unk, Zbtb7b, Zmynd8	10	

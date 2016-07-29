@@ -1,0 +1,3 @@
+	GF_SI_Monocytes_v_SFBd14_SI_Monocytes_FC0p58_FDR25_down_GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000825177117897	0.000825177117897,0.000895621555304,0.00149814063191,0.0108586011563,0.035849588428,0.0533903791304,0.0692825751142,0.0856127299896,0.146558106939,0.726092130296,0.726092130296	1	21	Arl6, Btg2, Ccdc102a, Ccdc64b, Ctla2b, Fndc7, Fsip1, Gna11, Inf2, Kirrel, Limk2, Mcoln2, Mttp, Pcyt2, Relt, Rgs3, Rsad2, Serpinf1, Slco2b1, Tmpo, Tpx2	21	

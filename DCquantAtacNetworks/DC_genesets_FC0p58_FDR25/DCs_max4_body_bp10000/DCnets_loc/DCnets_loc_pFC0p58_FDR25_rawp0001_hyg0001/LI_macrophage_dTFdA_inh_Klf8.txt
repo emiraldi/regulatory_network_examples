@@ -1,0 +1,3 @@
+	GF_LI_Macrophages_v_GF_SI_Macrophages_FC0p58_FDR25_up_GF_LI_Macrophage_v_GF_SI_Macrophage_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	5.6459210473e-05	5.6459210473e-05,0.259712042204	1	12	Galt, Gtf2i, Kif20b, Mtmr4, Ncf1, Nudt14, Prkra, Rps10, Slc5a6, Susd1, Uba52, Ubc	10	

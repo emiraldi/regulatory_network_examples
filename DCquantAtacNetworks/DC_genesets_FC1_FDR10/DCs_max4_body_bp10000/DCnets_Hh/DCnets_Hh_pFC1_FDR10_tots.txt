@@ -1,0 +1,19 @@
+Total genes and peaks mapped to +/-Hhbp of gene genesets of various gene sets
+
+	Total peaks mapped to various ATACseq peak sets
+
+	Total peaks mapped to the intersection of ATACseq-based and gene-based sets
+
+		GF_LI_CD11bmCD103m_v_Hh_LI_CD11bmCD103m_FC1_FDR10_down	GF_LI_CD11bmCD103m_v_Hh_LI_CD11bmCD103m_FC1_FDR10_up	GF_LI_CD11bmCD103p_v_Hh_LI_CD11bmCD103p_FC1_FDR10_down	GF_LI_CD11bmCD103p_v_Hh_LI_CD11bmCD103p_FC1_FDR10_up	GF_LI_CD11bpCD103m_v_Hh_LI_CD11bpCD103m_FC1_FDR10_down	GF_LI_CD11bpCD103m_v_Hh_LI_CD11bpCD103m_FC1_FDR10_up	GF_LI_CD11bpCD103p_v_Hh_LI_CD11bpCD103p_FC1_FDR10_down	GF_LI_CD11bpCD103p_v_Hh_LI_CD11bpCD103p_FC1_FDR10_up	GF_LI_Macrophage_v_Hh_LI_Macrophage_FC1_FDR10_down	GF_LI_Macrophage_v_Hh_LI_Macrophage_FC1_FDR10_up	GF_LI_Monocyte_v_Hh_LI_Monocyte_FC1_FDR10_down	GF_LI_Monocyte_v_Hh_LI_Monocyte_FC1_FDR10_up
+	totGenes	81	98	29	10	44	53	133	132	40	7	418	208
+	totPeaks	829	556	392	99	455	311	1394	1033	472	39	3398	1425
+GF_LI_CD103p_v_HHd14_LI_CD103p_FC1_FDR10_down	277	1	1	1	0	0	0	1	1	1	0	9	3
+GF_LI_CD103p_v_HHd14_LI_CD103p_FC1_FDR10_up	369	1	2	1	0	1	1	2	2	0	0	12	4
+GF_LI_CD11bmCD103m_v_HHd14_LI_CD11bmCD103m_FC1_FDR10_down	5	0	0	0	0	0	0	0	0	0	0	0	0
+GF_LI_CD11bpCD103p_v_HHd14_LI_CD11bpCD103p_FC1_FDR10_down	9	0	1	0	0	0	0	0	0	0	0	1	0
+GF_LI_CD11bp_v_HHd14_LI_CD11bp_FC1_FDR10_down	6	0	0	0	0	0	0	1	0	0	0	0	0
+GF_LI_CD11bp_v_HHd14_LI_CD11bp_FC1_FDR10_up	13	0	0	0	0	0	0	0	0	0	0	0	0
+GF_LI_Macrophages_v_HHd14_LI_Macrophages_FC1_FDR10_down	195	1	0	0	0	1	1	1	0	0	0	1	2
+GF_LI_Macrophages_v_HHd14_LI_Macrophages_FC1_FDR10_up	79	0	0	0	1	0	0	1	2	0	0	3	1
+GF_LI_Monocytes_v_HHd14_LI_Monocytes_FC1_FDR10_down	149	6	0	2	0	2	1	4	0	2	0	5	1
+GF_LI_Monocytes_v_HHd14_LI_Monocytes_FC1_FDR10_up	238	1	2	0	0	1	0	4	0	0	0	5	6

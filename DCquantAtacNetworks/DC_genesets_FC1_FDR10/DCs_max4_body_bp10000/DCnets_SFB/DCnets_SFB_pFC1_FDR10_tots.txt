@@ -1,0 +1,20 @@
+Total genes and peaks mapped to +/-SFBbp of gene genesets of various gene sets
+
+	Total peaks mapped to various ATACseq peak sets
+
+	Total peaks mapped to the intersection of ATACseq-based and gene-based sets
+
+		GF_SI_CD11bmCD103m_v_SFB_SI_CD11bmCD103m_FC1_FDR10_down	GF_SI_CD11bmCD103m_v_SFB_SI_CD11bmCD103m_FC1_FDR10_up	GF_SI_CD11bmCD103p_v_SFB_SI_CD11bmCD103p_FC1_FDR10_down	GF_SI_CD11bmCD103p_v_SFB_SI_CD11bmCD103p_FC1_FDR10_up	GF_SI_CD11bpCD103m_v_SFB_SI_CD11bpCD103m_FC1_FDR10_down	GF_SI_CD11bpCD103m_v_SFB_SI_CD11bpCD103m_FC1_FDR10_up	GF_SI_CD11bpCD103p_v_SFB_SI_CD11bpCD103p_FC1_FDR10_down	GF_SI_CD11bpCD103p_v_SFB_SI_CD11bpCD103p_FC1_FDR10_up	GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_down	GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up	GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_down	GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_up
+	totGenes	45	58	50	160	185	390	27	38	309	172	246	556
+	totPeaks	891	634	744	1489	2374	2911	569	463	4197	1576	2365	4374
+GF_SI_CD103p_DC_v_SFBd14_SI_CD103p_DC_FC1_FDR10_down	1736	7	8	7	8	24	30	2	5	51	15	27	51
+GF_SI_CD103p_DC_v_SFBd14_SI_CD103p_DC_FC1_FDR10_up	100	0	3	1	3	1	3	1	3	3	4	2	6
+GF_SI_CD11bmCD103m_DC_v_SFBd14_SI_CD11bmCD103m_DC_FC1_FDR10_down	5	0	0	0	0	2	0	0	0	0	0	0	0
+GF_SI_CD11bpCD103p_DC_v_SFBd14_SI_CD11bpCD103p_DC_FC1_FDR10_down	24	0	0	0	0	0	0	0	0	1	0	0	0
+GF_SI_CD11bpCD103p_DC_v_SFBd14_SI_CD11bpCD103p_DC_FC1_FDR10_up	1	0	0	0	0	0	0	0	0	0	0	0	0
+GF_SI_CD11bp_DC_v_SFBd14_SI_CD11bp_DC_FC1_FDR10_down	34	0	0	0	0	0	0	0	0	0	0	0	0
+GF_SI_CD11bp_DC_v_SFBd14_SI_CD11bp_DC_FC1_FDR10_up	9	0	0	0	0	0	0	0	0	0	0	0	0
+GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_down	4191	14	9	13	39	54	77	15	10	182	46	92	141
+GF_SI_Macrophages_v_SFBd14_SI_Macrophages_FC1_FDR10_up	865	10	4	4	10	11	16	1	7	16	8	13	23
+GF_SI_Monocytes_v_SFBd14_SI_Monocytes_FC1_FDR10_down	681	1	1	2	4	18	4	2	1	26	3	11	12
+GF_SI_Monocytes_v_SFBd14_SI_Monocytes_FC1_FDR10_up	40	0	0	1	0	0	0	0	0	0	1	0	0

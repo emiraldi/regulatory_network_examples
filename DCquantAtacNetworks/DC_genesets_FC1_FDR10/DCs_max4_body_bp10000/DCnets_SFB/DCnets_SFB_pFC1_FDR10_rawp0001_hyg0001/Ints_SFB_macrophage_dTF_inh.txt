@@ -1,0 +1,1 @@
+Regulator	Target	-log10(min(Praw))*dir	PeakSetSupport	AllMotifPvals	Motifs	MotifTf

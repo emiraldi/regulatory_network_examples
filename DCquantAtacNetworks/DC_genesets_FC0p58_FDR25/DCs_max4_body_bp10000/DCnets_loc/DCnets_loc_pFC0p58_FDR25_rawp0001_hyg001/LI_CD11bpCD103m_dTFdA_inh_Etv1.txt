@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC0p58_FDR25_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000306963375803	0.000306963375803,0.0224552393807,0.0224552393807	1	12	0610010K14Rik, Ahsa1, Ankle1, Arfip1, Arpc5l, Lbr, Nsun2, Nt5m, Peo1, Stxbp2, Wdr24, Wdr3	12	

@@ -1,0 +1,2 @@
+Regulator	Target	-log10(min(Praw))*dir	PeakSetSupport	AllMotifPvals	Motifs	MotifTf
+Nr2c2	Bach2	.33	GF_LI_CD103p_v_HHd14_LI_CD103p_FC0p58_FDR25_down_GF_LI_CD11bmCD103p_v_Hh_LI_CD11bmCD103p_FC1_FDR10_down	3.22675901032e-06, 0.0252854871975, 0.0252854871975	M4419_1.01_mm9, E11166_hg19, E11167_hg19, E11168_hg19, E11169_hg19, M2173_1.01_hg19, M4419_1.01_hg19, M4424_1.01_hg19, M4472_1.01_hg19, M5492_1.01_hg19, M6209_1.01_hg19, Testicular_TFClassSubFam, receptors_TFClassSubFam, (NR2C)_TFClassSubFam	Nr2c2

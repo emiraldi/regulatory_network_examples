@@ -1,0 +1,3 @@
+	GF_SI_CD11bpCD103p_v_SFB_SI_CD11bpCD103p_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	6.88503043578e-07	6.88503043578e-07,6.88503043578e-07,6.88503043578e-07,0.000264850708848,0.0817042220322,0.0817042220322	1	18	Abtb2, Alpk2, Basp1, Cd81, Dos, F5, Fam129b, Igj, Kcnn4, Lrp8, Pkib, Rnf157, Sipa1l2, Spata13, Spred1, Stat4, Vdr, Xcr1	23	

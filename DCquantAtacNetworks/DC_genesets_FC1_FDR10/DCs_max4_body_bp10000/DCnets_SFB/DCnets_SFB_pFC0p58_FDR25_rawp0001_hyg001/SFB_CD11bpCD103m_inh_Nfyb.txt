@@ -1,0 +1,3 @@
+	GF_SI_CD11bpCD103m_v_SFB_SI_CD11bpCD103m_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	8.45641950301e-05	8.45641950301e-05	1	43	Atf7ip, BC017643, Cdca2, Cecr5, Daxx, Ddr2, Dedd2, Dffb, Dscr3, Dse, Dusp8, Eif2b4, Fam134c, H2-K2, Hmbs, Hspa8, Kank2, Kif14, Kif18b, Kif2c, Lrrc45, Lrwd1, Mbd4, Metap1d, Mlx, Nid2, Nupr1, Palld, Pcdh19, Pcolce, Pgp, Plau, Prc1, Rbbp9, Rnf214, Rps19bp1, Rreb1, Sh2d3c, Slc28a2, Tbc1d25, Tlcd2, Wdr45, Wdr8	47	

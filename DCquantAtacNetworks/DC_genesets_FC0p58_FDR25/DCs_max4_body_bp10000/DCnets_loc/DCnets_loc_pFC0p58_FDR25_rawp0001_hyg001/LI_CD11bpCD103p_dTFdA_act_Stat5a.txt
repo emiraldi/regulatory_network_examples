@@ -1,0 +1,3 @@
+	GF_LI_CD11bpCD103p_DC_v_GF_SI_CD11bpCD103p_DC_FC0p58_FDR25_up_GF_LI_CD11bpCD103p_v_GF_SI_CD11bpCD103p_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000876260730351	0.000876260730351,0.000876260730351,0.000876260730351,0.110124492331,0.328552945573,0.328552945573	1	18	Ankrd13b, Arhgef10, Arid4b, Dthd1, Etv6, Fnip2, Ip6k1, Lrp8, Nr6a1, Nrp2, Olfml2a, Phlpp1, Polg, Ppard, Riok3, Scyl2, Tmem51, Zfp456	17	

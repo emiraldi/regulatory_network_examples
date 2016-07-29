@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC0p58_FDR25_down_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.71001477795e-05	2.71001477795e-05,0.00518068831272,0.0113755933188,0.0113755933188	1	18	Abl1, Acot8, Arid3b, Banp, Bcl6, Ccng2, Cirbp, Fam111a, H2-T24, Irf2bp2, Kcnj10, Mlh3, Nusap1, Pptc7, Sept9, Slc36a3, Tpcn1, Zfp367	19	

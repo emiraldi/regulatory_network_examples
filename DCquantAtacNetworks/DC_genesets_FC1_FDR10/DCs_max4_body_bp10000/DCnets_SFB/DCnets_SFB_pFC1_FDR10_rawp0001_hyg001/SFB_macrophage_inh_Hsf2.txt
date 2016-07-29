@@ -1,0 +1,3 @@
+	GF_SI_Macrophage_v_SFB_SI_Macrophage_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000175108386169	0.000175108386169,0.000175108386169,0.0127383498393,0.729728250072,0.729728250072,0.729728250072	1	13	Amica1, Atf3, BC017643, Btg2, Ccl2, Chordc1, Dnajb1, Hip1, Hspa8, Hsph1, Nup43, Oasl2, Relt	14	

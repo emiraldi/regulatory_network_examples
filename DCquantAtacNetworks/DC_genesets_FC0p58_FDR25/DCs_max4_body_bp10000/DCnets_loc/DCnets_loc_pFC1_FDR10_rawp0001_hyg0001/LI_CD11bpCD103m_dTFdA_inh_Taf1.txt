@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_up_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	6.06066246435e-05	6.06066246435e-05,0.0652162741125,0.13917006761,0.644649648625	1	14	Celf4, Copg2, Fbxl4, Glcci1, Mcm8, Mdm1, Odf2l, Pbx1, Slc10a7, Tbc1d10c, Tcof1, Tm2d2, Tmem194b, Zfp367	14	

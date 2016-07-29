@@ -1,0 +1,3 @@
+	GF_SI_Monocyte_v_SFB_SI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000979617420582	0.000979617420582,0.00126660547809,0.00608227789922,0.00608227789922,0.0336141266622,0.0645547994836,0.154440386126,0.154440386126,0.169340517538,0.169340517538,0.629028938667,0.629028938667,0.690609268805,0.690609268805	1	42	Acoxl, Afmid, Aptx, Arhgap32, Cnnm2, Col23a1, D3Ertd254e, Dos, Dscc1, Eaf2, Egf, Fxn, Gfod1, Gnal, Gzmm, Habp4, Hist1h2ag, Hoxa2, Itpkb, Kcp, Lin52, Lphn2, Ly75, Mbip, Nlgn2, Ntng2, Phlpp1, Pja1, Procr, Rab11fip3, Rnf43, Rpusd2, Scaper, Serf1, Sipa1l2, Tmeff1, Tmem120b, Tmem143, Ubap1, Vgll4, Zfp58, Zfp687	50	

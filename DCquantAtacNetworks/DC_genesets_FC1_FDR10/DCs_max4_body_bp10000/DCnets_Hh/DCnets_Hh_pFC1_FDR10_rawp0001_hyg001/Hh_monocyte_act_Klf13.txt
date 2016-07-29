@@ -1,0 +1,3 @@
+	GF_LI_Monocyte_v_Hh_LI_Monocyte_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.00039249582376	0.00039249582376,0.00039249582376	1	46	5730455P16Rik, AU022252, Aldh2, Apc2, Cchcr1, Cks1b, Cntrob, Crtc1, Dnd1, Doc2g, Fchsd1, Foxm1, Fpgs, Gls2, Gpr4, Hmbs, Hrc, Hspb6, Kcnq1, Kit, Lrrc32, March2, Mcee, Mpi, Ndufaf3, Ndufv3, Ntpcr, Nudt8, Pold1, Polr1e, Ppp1r13l, Ppp1r16b, Prkd2, Prr7, S100a1, Scarb1, Slc32a1, Slc6a9, Tbc1d30, Tcf19, Tmco4, Tonsl, Tspan2, Unc119b, Vit, Wdsub1	46	

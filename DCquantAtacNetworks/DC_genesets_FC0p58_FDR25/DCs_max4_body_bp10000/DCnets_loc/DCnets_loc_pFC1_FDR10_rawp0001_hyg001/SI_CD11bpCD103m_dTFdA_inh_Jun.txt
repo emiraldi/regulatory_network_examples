@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	3.06394165595e-09	3.06394165595e-09,0.0354219991201,0.0466524553912,0.19127742508,0.19450509754,0.277157469452,0.297570526661,0.298606527125,0.568117255472	1	39	Agtpbp1, Alox5ap, Atp8b1, C3ar1, Camk2g, Crcp, Crem, Dgkh, Dstn, Dusp16, F2rl2, Fam129a, Fbxl22, Fndc3b, Gpd2, Hivep1, Il1r1, Kdm6b, Klf7, Lphn2, Mtmr12, Plek, Pmepa1, Rabgap1l, Ralgds, Rarg, Rasa2, Reep3, Sema4a, Slc25a24, Smad3, Specc1l, Spin1, Svil, Tbc1d4, Vdr, Wdr37, Wnt11, Wnt2b	41	

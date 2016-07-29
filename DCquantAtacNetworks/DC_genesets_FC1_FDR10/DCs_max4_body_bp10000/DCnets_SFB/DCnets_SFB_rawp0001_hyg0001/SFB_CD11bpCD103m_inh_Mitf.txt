@@ -1,0 +1,3 @@
+	GF_SI_CD11bpCD103m_v_SFB_SI_CD11bpCD103m_FC1_FDR10_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	2.09818419208e-05	2.09818419208e-05,0.999068788471	1	37	8430427H17Rik, Anln, Atf3, Bcl6, Capn3, Cdk20, Csrp2bp, Ddr2, Dedd2, Dffb, Dscr3, Fam134c, Fkbp4, Fos, Galk1, Hip1, Hsdl1, Hspa8, Ipo13, Irak1bp1, Itgb4, Kank3, Metap1d, Mlx, Mms19, Otud3, Pdcd2l, Phf23, Polr2g, Pygo2, Repin1, Rps19bp1, Sash3, Scyl1, Slc38a7, Taf6l, Tbc1d25	37	

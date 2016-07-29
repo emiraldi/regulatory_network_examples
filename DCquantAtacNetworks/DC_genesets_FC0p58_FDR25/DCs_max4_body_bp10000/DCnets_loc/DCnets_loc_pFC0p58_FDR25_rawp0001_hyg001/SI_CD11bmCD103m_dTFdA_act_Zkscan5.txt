@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103m_DC_v_GF_SI_CD11bmCD103m_DC_FC0p58_FDR25_down_GF_LI_CD11bmCD103m_v_GF_SI_CD11bmCD103m_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.20266797565e-05	1.20266797565e-05	1	9	Aim2, Fndc5, Hmg20a, Iqgap2, Pde2a, Pdlim2, Pkd1l2, Rapgef1, Tpx2	9	

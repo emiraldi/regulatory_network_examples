@@ -1,0 +1,3 @@
+	GF_LI_CD11bmCD103p_v_Hh_LI_CD11bmCD103p_FC1_FDR10_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	0.000189853873229	0.000189853873229,0.00319718432249,0.0249677398876,0.0518248668815,0.478848675548,0.524005401777,0.824080468002,0.956716716055,0.960441165053	1	23	A530064D06Rik, Acp5, Bach2, C920009B18Rik, Cd4, Clec4n, Ctsa, Cybb, Gcnt2, H2-Oa, Hfe, Hmox1, Ica1l, Ifitm2, Ifitm3, Ifitm6, Ndst1, Satb1, Siglece, Srxn1, Treml4, Vegfa, Vps37b	77	

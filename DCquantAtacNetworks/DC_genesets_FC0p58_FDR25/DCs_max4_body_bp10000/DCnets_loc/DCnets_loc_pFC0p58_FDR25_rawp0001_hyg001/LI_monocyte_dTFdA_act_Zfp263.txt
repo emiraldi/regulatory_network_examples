@@ -1,0 +1,3 @@
+	GF_LI_Monocytes_v_GF_SI_Monocytes_FC0p58_FDR25_up_GF_LI_Monocyte_v_GF_SI_Monocyte_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	4.58002018427e-05	4.58002018427e-05,0.000293048187818,0.00213333447598,0.315343227325	1	34	Actn1, Afap1l2, Arf6, Bmp2, Brsk1, Chpf, Cutc, Eln, Emp3, Epas1, Epb4.1l2, Ercc6, Fam126a, Fam89a, Fbn1, Golga1, Kbtbd8, Kcmf1, Larp4, Lrrc8b, Mex3c, Mtmr14, Npepps, Orai1, Pcdh7, Pdcl, Pmepa1, Rbm47, Relb, Stap2, Sypl, Tnks1bp1, Zfp191, Zfp553	34	

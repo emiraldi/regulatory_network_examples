@@ -1,0 +1,3 @@
+	GF_LI_CD103p_DC_v_GF_SI_CD103p_DC_FC0p58_FDR25_down_GF_LI_CD11bmCD103p_v_GF_SI_CD11bmCD103p_FC0p58_FDR25_down
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	3.58301133208e-09	3.58301133208e-09,3.58301133208e-09,3.58301133208e-09,2.3234250579e-07,0.0645781349686,0.0645781349686	1	15	Abl1, Arid3b, Batf3, Dusp16, Dym, Fam71f2, Gtf2h2, Irf2bp2, Klf2, Mapk14, Mettl7a1, Mitf, Nrip1, Sept9, Tpcn1	15	

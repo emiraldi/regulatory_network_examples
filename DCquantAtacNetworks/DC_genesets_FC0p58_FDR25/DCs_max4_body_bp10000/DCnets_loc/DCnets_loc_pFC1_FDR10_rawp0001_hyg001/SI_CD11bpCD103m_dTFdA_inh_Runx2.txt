@@ -1,0 +1,3 @@
+	GF_LI_CD11bp_DC_v_GF_SI_CD11bp_DC_FC1_FDR10_down_GF_LI_CD11bpCD103m_v_GF_SI_CD11bpCD103m_FC0p58_FDR25_up
+	minPval	pvals	sign	# genes w/ motif	genes w/ motif	# peaks	peaks
+	1.0865488107e-06	1.0865488107e-06,0.000297844584983,0.00372858522871,0.00372858522871,0.245972840932,0.245972840932	1	23	Acsbg1, Aff1, Agtpbp1, Artn, Atp8b1, Cadm1, Csf2rb2, Dnajc25, Emilin2, Epn2, Eps8, Fbxl22, Irak3, Mitf, Pde3b, Pde4d, Rab7, Sipa1l1, Spag9, St6gal1, Stxbp3a, Ube2g1, Usp35	24	
